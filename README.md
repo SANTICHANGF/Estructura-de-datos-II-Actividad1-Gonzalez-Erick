@@ -1,7 +1,7 @@
 # 01 - Introducción a los árboles
 
 **Asignatura:** Estructura de Datos II – Ingeniería de Software, IV semestre
-**Estudiante:** _(tu nombre)_
+**Estudiante:** Erick Santiago Gonzalez Gutierrez
 
 ## Contenido de la carpeta
 
